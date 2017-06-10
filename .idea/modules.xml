@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyOrderShared.iml" filepath="$PROJECT_DIR$/MyOrderShared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mstmyorder-myorder-shared.iml" filepath="$PROJECT_DIR$/mstmyorder-myorder-shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orderModule/orderModule.iml" filepath="$PROJECT_DIR$/orderModule/orderModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orderModule/ordermodule.iml" filepath="$PROJECT_DIR$/orderModule/ordermodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testApp/testApp.iml" filepath="$PROJECT_DIR$/testApp/testApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testApp/testApp.iml" filepath="$PROJECT_DIR$/testApp/testApp.iml" />
+    </modules>
+  </component>
+</project>

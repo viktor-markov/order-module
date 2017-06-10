@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OrderModule</string>
+
+    <string name="count_hint">Количество</string>
+    <string name="sku_unit">шт.</string>
+    <string name="no_data_to_display">Нет данных для отображения</string>
+    <string name="loading_error">Ошибка загрузки данных</string>
+</resources>
